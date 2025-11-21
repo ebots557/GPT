@@ -1,0 +1,9 @@
+pyrogram
+pymongo
+tgcrypto
+motor
+dnspython
+flask
+groq
+gtts
+deep-translator
